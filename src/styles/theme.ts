@@ -1,9 +1,11 @@
 export default {
   colors: {
-    purple: '#9146FF',
-    purple_darker: '#833FE5',
+    purple: '#212122',
+    purple_darker: '#333',
+    black_gray: '#555',
+    black_2: '#333',
 
-    black: '#0E0E10',
+    black: '#111',
 
     white: '#FFF',
     
